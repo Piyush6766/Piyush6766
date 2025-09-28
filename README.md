@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://piyush-portfolio-gules.vercel.app/](https://piyush-portfolio-gules.vercel.app/)
 
-- 💬 Ask me about **React, Next, GSAP, Express.js, MongoDB, Graphic Design**
+- 💬 Ask me about **React, Next, Node, Express.js, MongoDB, Graphic Design**
 
 - 📫 How to reach me **singhpiyush6766@gmail.com**
 
